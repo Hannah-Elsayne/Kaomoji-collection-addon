@@ -1,0 +1,9 @@
+{ "manifest_version": 1,
+  "name": "hananokaomoji",
+  "description": "Collection of kaomoji's and western ascii emoji's in a neat little chrome extension",
+  "version": "1",
+  "author": "Hana Elsayne",
+  "browser_action": {
+    "default_icon": "resc/browser-ico.png",
+    "default_popup": "script/popup.html"
+  }
